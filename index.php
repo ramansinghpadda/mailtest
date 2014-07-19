@@ -1,6 +1,6 @@
 <?php 
 
-  if(mail('mailtorspadd@gmail.com','test message','this is test message'))
+  if(mail('mailtorspadda@gmail.com','test message','this is test message'))
   {
   	echo 'Mail sent';
   }
