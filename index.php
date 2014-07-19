@@ -1,5 +1,5 @@
 <?php 
-
+//email changed
   if(mail('mailtorspadda@gmail.com','test message','this is test message'))
   {
   	echo 'Mail sent';
